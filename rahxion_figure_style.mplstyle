@@ -14,7 +14,7 @@ font.family       : serif
 #### LaTeX
 mathtext.default  : regular
 mathtext.fontset: cm
-text.usetex: True
+#text.usetex: True
 
 #### AXES
 axes.linewidth  : 2
