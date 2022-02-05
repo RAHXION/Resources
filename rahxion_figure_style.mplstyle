@@ -34,3 +34,7 @@ ytick.major.size    : 10
 ytick.minor.visible : True
 ytick.minor.width   : 2
 ytick.minor.size    : 5
+
+####LEGEND
+
+legend.fancybox     : True
