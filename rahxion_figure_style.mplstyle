@@ -13,7 +13,7 @@ font.family       : serif
 
 #### LaTeX
 mathtext.default  : regular
-#mathtext.fontset: cm
+mathtext.fontset: cm
 #text.usetex: True
 
 #### AXES
